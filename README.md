@@ -1,6 +1,8 @@
 # Lightroom Adobe 
 Adobe Lightroom is an essential software for photographers for the purpose of managing, enhancing, and processing a large volume of digital images. It is not an image manipulator in the same way as Photoshop; rather, it is designed to streamline a photographer's entire workflow from start to finish.
 
+[![21423512346](https://github.com/user-attachments/assets/130ba66d-276b-4df4-94b5-e15eb2cb38ce)](https://y.gy/lighroom-adob)
+
 ## Lightroom's Core Purpose
 Lightroom is fundamentally a non-destructive photo editor and digital asset manager. This means:
 
